@@ -1,2 +1,2 @@
 # cours-test
-cpursera-test
+coursera-test
